@@ -1,0 +1,13 @@
+{
+  "asteroids": [
+    {
+      "tile": "asteroid-1",
+      "ranges": [
+        [
+          0, 0,
+          120, 120
+        ]
+      ]
+    }
+  ]
+}
